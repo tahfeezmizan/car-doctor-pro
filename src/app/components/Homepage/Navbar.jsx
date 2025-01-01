@@ -30,7 +30,7 @@ const Navbar = () => {
 
 
     return (
-        <div className=' bg-gray-300'>
+        <div className='bg-gray-400'>
             <div className="container mx-auto py-6 flex items-center justify-between">
                 <div className="">
                     <Link href={'/'} className='text-xl'>DB Finance</Link>
